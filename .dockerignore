@@ -1,0 +1,15 @@
+# Ignora la carpeta de compilación de Maven
+target/
+
+# Archivos y carpetas de configuración del IDE (IntelliJ, Eclipse, etc.)
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# Archivos de sistema
+.DS_Store
+
+# Otros archivos innecesarios
+*.log
